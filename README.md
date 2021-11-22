@@ -1,0 +1,2 @@
+# MiroProjectGit
+MyAndroidProjects
